@@ -12,4 +12,6 @@ http://localhost:8080/api/v1/blog/searchTOP10
 https://github.com/remindkdw/remind
 
 4. Jar
+https://github.com/remindkdw/remind/blob/main/remind-0.0.1-SNAPSHOT.jar
+
 https://drive.google.com/drive/folders/1REAZJDBPhOOBLoDyg5fzh7zD8Qz7rxdi
