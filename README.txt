@@ -7,3 +7,9 @@ sort : defalut=accuracy, accuracy(정확도순) 또는 recency(최신순)
 
 2. 인기 검색어 목록
 http://localhost:8080/api/v1/blog/searchTOP10
+
+3. GitHub
+https://github.com/remindkdw/remind
+
+4. Jar
+https://drive.google.com/drive/folders/1REAZJDBPhOOBLoDyg5fzh7zD8Qz7rxdi
