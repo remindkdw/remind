@@ -1,4 +1,1 @@
 https://github.com/remindkdw/remind.git
-
-update
-update
